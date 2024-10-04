@@ -39,7 +39,9 @@ Download the dataset from Mendeley Data here and place it in the dataset folder,
 ## References
 
 PyTorch: https://pytorch.org/
+
 Torchvision Models: https://pytorch.org/vision/stable/models.html
+
 MixUp: Zhang et al., "mixup: Beyond Empirical Risk Minimization" (https://arxiv.org/abs/1710.09412)
 
 **Dataset Reference**:  

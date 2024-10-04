@@ -36,9 +36,12 @@ pip install -r requirements.txt
 3. Dataset Setup
 Download the dataset from Mendeley Data here and place it in the dataset folder, ensuring the structure is organized by class folders.
 
-References
+## References
+
 PyTorch: https://pytorch.org/
 Torchvision Models: https://pytorch.org/vision/stable/models.html
 MixUp: Zhang et al., "mixup: Beyond Empirical Risk Minimization" (https://arxiv.org/abs/1710.09412)
+
 **Dataset Reference**:  
+
 Namoun, Abdallah; Alkhodre, Ahmad B.; Abi Sen, Adnan Ahmad; Alsaawy, Yazed; Almoamari, Hani (2024), "Diseases of date palm leaves dataset", Mendeley Data, V2, doi: [10.17632/g684ghfxvg.2](https://doi.org/10.17632/g684ghfxvg.2)

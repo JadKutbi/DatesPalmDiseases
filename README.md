@@ -30,10 +30,13 @@ The model uses **ConvNeXt Tiny** architecture with MixUp data augmentation. It i
 
 1. Clone the repository
 git clone https://github.com/yourusername/date-palm-leaf-disease-classification.git
+
 cd date-palm-leaf-disease-classification
 2. Install the required dependencies
+
 pip install -r requirements.txt
 3. Dataset Setup
+
 Download the dataset from Mendeley Data here and place it in the dataset folder, ensuring the structure is organized by class folders.
 
 ## References

@@ -39,6 +39,16 @@ pip install -r requirements.txt
 
 Download the dataset from Mendeley Data here and place it in the dataset folder, ensuring the structure is organized by class folders.
 
+4. Training the Model
+To train the model, run:
+
+python train.py
+
+5. Evaluation
+Once training is complete, you can evaluate the model on the test set:
+
+python evaluate.py
+
 ## References
 
 PyTorch: https://pytorch.org/

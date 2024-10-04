@@ -29,9 +29,9 @@ The model uses **ConvNeXt Tiny** architecture with MixUp data augmentation. It i
 ## Setup and Usage
 
 1. Clone the repository
-git clone https://github.com/yourusername/date-palm-leaf-disease-classification.git
+git clone https://github.com/JadKutbi/DatesPalmDiseases.git
 
-cd date-palm-leaf-disease-classification
+cd DatesPalmDiseases
 2. Install the required dependencies
 
 pip install -r requirements.txt

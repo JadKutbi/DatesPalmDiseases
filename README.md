@@ -1,3 +1,15 @@
+"""
+Author: Jad Kutbi
+
+This script is designed to evaluate the performance of a ConvNeXt model trained on an image dataset
+for disease classification. The model is tested on a held-out test set, and the predictions are visualized
+along with the true labels. The code uses MixUp data augmentation during training and includes functionality
+for early stopping.
+
+Citation:
+Kutbi, J. (2024). Disease Classification Using ConvNeXt and MixUp Data Augmentation. [GitHub repository or paper title]
+"""
+
 # ConvNeXt Model with MixUp for Date Palm Leaves Disease Classification
 
 This repository contains the code for training and evaluating a ConvNeXt model with MixUp data augmentation, applied to classify diseases in date palm leaves. The dataset is sourced from Mendeley Data, and the model leverages transfer learning using pretrained weights on ImageNet.
@@ -60,3 +72,16 @@ MixUp: Zhang et al., "mixup: Beyond Empirical Risk Minimization" (https://arxiv.
 **Dataset Reference**:  
 
 Namoun, Abdallah; Alkhodre, Ahmad B.; Abi Sen, Adnan Ahmad; Alsaawy, Yazed; Almoamari, Hani (2024), "Diseases of date palm leaves dataset", Mendeley Data, V2, doi: [10.17632/g684ghfxvg.2](https://doi.org/10.17632/g684ghfxvg.2)
+
+
+"""
+Author: Jad Kutbi
+
+This script is designed to evaluate the performance of a ConvNeXt model trained on an image dataset
+for disease classification. The model is tested on a held-out test set, and the predictions are visualized
+along with the true labels. The code uses MixUp data augmentation during training and includes functionality
+for early stopping.
+
+Citation:
+Kutbi, J. (2024). Disease Classification Using ConvNeXt and MixUp Data Augmentation. [GitHub repository or paper title]
+"""

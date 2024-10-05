@@ -1,4 +1,5 @@
 """
+
 Author: Jad Kutbi
 
 This script is designed to evaluate the performance of a ConvNeXt model trained on an image dataset
@@ -7,7 +8,9 @@ along with the true labels. The code uses MixUp data augmentation during trainin
 for early stopping.
 
 Citation:
+
 Kutbi, J. (2024). Disease Classification Using ConvNeXt and MixUp Data Augmentation. [GitHub repository or paper title]
+
 """
 
 # ConvNeXt Model with MixUp for Date Palm Leaves Disease Classification
@@ -44,19 +47,23 @@ The model uses **ConvNeXt Tiny** architecture with MixUp data augmentation. It i
 git clone https://github.com/JadKutbi/DatesPalmDiseases.git
 
 cd DatesPalmDiseases
+
 2. Install the required dependencies
 
 pip install -r requirements.txt
+
 3. Dataset Setup
 
 Download the dataset from Mendeley Data here and place it in the dataset folder, ensuring the structure is organized by class folders.
 
 4. Training the Model
+   
 To train the model, run:
 
 python train.py
 
 5. Evaluation
+   
 Once training is complete, you can evaluate the model on the test set:
 
 python evaluate.py
@@ -75,6 +82,7 @@ Namoun, Abdallah; Alkhodre, Ahmad B.; Abi Sen, Adnan Ahmad; Alsaawy, Yazed; Almo
 
 
 """
+
 Author: Jad Kutbi
 
 This script is designed to evaluate the performance of a ConvNeXt model trained on an image dataset
@@ -83,5 +91,7 @@ along with the true labels. The code uses MixUp data augmentation during trainin
 for early stopping.
 
 Citation:
+
 Kutbi, J. (2024). Disease Classification Using ConvNeXt and MixUp Data Augmentation. [GitHub repository or paper title]
+
 """

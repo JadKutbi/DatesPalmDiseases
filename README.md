@@ -20,7 +20,7 @@ This repository contains the code for training and evaluating a ConvNeXt model w
 ## Dataset
 
 **Dataset Reference**:  
-Namoun, Abdallah; Alkhodre, Ahmad B.; Abi Sen, Adnan Ahmad; Alsaawy, Yazed; Almoamari, Hani (2024), "Diseases of date palm leaves dataset", Mendeley Data, V2, doi: [10.17632/g684ghfxvg.2](https://doi.org/10.17632/g684ghfxvg.2)
+Namoun, Abdallah; Alkhodre, Ahmad B.; Abi Sen, Adnan Ahmad; Alsaawy, Yazed; Almoamari, Hani (2024), "Diseases of date palm leaves dataset", Mendeley Data, V2, doi: [10.17632/g684ghfxvg.2](https://data.mendeley.com/datasets/g684ghfxvg/2)
 
 
 ## Model Overview

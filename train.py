@@ -1,3 +1,16 @@
+"""
+Author: Jad Kutbi
+
+This script is designed to evaluate the performance of a ConvNeXt model trained on an image dataset
+for disease classification. The model is tested on a held-out test set, and the predictions are visualized
+along with the true labels. The code uses MixUp data augmentation during training and includes functionality
+for early stopping.
+
+Citation:
+Kutbi, J. (2024). Disease Classification Using ConvNeXt and MixUp Data Augmentation. [GitHub repository or paper title]
+"""
+
+
 import os
 import torch
 from torchvision import datasets, transforms
